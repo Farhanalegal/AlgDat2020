@@ -5,9 +5,9 @@ public class New {
         for (int i = 1; i <= 10; ++i) {
             System.out.println(i);
         }
-        System.out.println("Peter teller til tyve");
-        for (int i = 11; i <=20;++i){
-                System.out.println("Peter teller og sier" + i);
+        System.out.println("Andre teller til femti");
+        for (int i = 11; i <50;++i){
+                System.out.println("Andra teller og sier " + i);
     }
 }
 }
